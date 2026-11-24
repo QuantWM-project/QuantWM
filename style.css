@@ -56,3 +56,21 @@
         padding: 9px 20px;
     }
 }
+
+/* arXiv button */
+.project-btn.arxiv-btn {
+    background: #B31B1B;
+}
+
+.project-btn.arxiv-btn:hover {
+    background: #8F1515;
+}
+
+/* GitHub button */
+.project-btn.github-btn {
+    background: #242424;
+}
+
+.project-btn.github-btn:hover {
+    background: #444444;
+}
